@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文思路构建"
+  short_description: "Build evidence-grounded section contracts"
+  default_prompt: "Use $paper-reasoning to reconstruct the scientific argument for this section and produce a Section Contract for approval."
